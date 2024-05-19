@@ -9,18 +9,18 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Diogo-NB&style=flat-square&color=blue" alt=""/>
   <h1>
-    Olá!
+    Hey!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-### 👩‍💻 Sobre mim :
-Sou um estudante de Engenharia da Computação e Desenvolvedor Mobile em Uberaba - MG.
-- 🔭 Atualmente contribuo com projetos Flutter dentro da [Empresa Júnior bugWare](https://bugware.com.br/) além de atuar como Vice-Diretor de Projetos. 
-- 🌱 Estou aprendendo a Framework React Native para meu projeto de Iniciação Científica e aprimorando meus conhecimentos de Node.js com Express.
+### 👩‍💻 About me :
+I'm a Computer Engineer Student and Mobile Developer in Brazil.
+- 🔭 I'm currently contributing to Flutter projects within the Junior Company [bugWare](https://bugware.com.br/), where I also act as Vice Director of Projects.
+- 🌱 I am learning the React Native framework for my Scientific Initiation project and also improving my knowledge of Node.js with Express.
 ---
-  ### 🛠  Linguagens e ferramentas :
-<div id="Lang&Ferramentas">  
+  ### 🛠  Languages & Tools :
+<div id="lang&tools">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -35,11 +35,11 @@ Sou um estudante de Engenharia da Computação e Desenvolvedor Mobile em Uberaba
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
 </div>
-<div id="MinhasEstatisticas">
+<div id="My Stats">
 
-  ### :fire: Minhas estatísticas :
-  ![Diogo-NB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-NB&show_icons=true&theme=radical&hide=prs,issues&locale=pt-br)
+  ### :fire: My Stats :
+  ![Diogo-NB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-NB&show_icons=true&theme=radical&hide=prs,issues)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diogo-NB&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diogo-NB&theme=radical)](https://git.io/streak-stats)
   
 </div>
