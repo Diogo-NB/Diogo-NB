@@ -16,8 +16,8 @@
 
 ### 👩‍💻 About me :
 I'm a Computer Engineer Student and Mobile Developer in Brazil.
-- 🔭 I'm currently contributing to Flutter projects within the Junior Company [bugWare](https://bugware.com.br/), where I also act as Vice Director of Projects.
-- 🌱 I am learning the React Native framework for my Scientific Initiation project and also improving my knowledge of Node.js with Express.
+- I'm currently contributing to Flutter projects within the Junior Company [bugWare](https://bugware.com.br/), where I also act as Vice Director of Projects.
+- I'm also building a React Native app for my Scientific Initiation project and trying to improve my Node.js + Express skills in my spare time.
 ---
   ### 🛠  Languages & Tools :
 <div id="lang&tools">  
