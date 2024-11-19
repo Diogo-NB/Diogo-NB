@@ -14,11 +14,6 @@
   </h1>
 </div>
 
-### 👩‍💻 About me :
-I'm a Computer Engineer Student and Mobile Developer in Brazil.
-- I'm currently contributing to Flutter projects within the Junior Company [bugWare](https://bugware.com.br/), where I also act as Vice Director of Projects.
-- I'm also building a React Native app for my Scientific Initiation project and trying to improve my Node.js + Express skills in my spare time.
----
   ### 🛠  Languages & Tools :
 <div id="lang&tools">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
